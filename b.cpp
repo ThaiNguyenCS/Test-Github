@@ -4,6 +4,6 @@ using namespace std;
 int main()
 {
     // do something
-    cout << "modify";
+    cout << "conflict";
     return 0;
 }
