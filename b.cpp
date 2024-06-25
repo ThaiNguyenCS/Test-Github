@@ -4,6 +4,9 @@ using namespace std;
 int main()
 {
     // do something
-    // I don't want to code anymore
+    cout << "modify";
+    cout << "modify3";
+    cout << "do something";
+
     return 0;
 }
