@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-    cout << "modify c";
+    // do something
     return 0;
 }
