@@ -4,7 +4,6 @@ using namespace std;
 int main()
 {
     // do something
-    cout << "modify";
-    cout << "modify3";
+    // I don't want to code anymore
     return 0;
 }
